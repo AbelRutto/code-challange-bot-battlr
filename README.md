@@ -1,4 +1,6 @@
 # React Immersive Code Challenge: Bot Battlr
+# Author
+(c)`Abel rutto`
 
 Welcome to **Bot Battlr**, the one and only spot in the known universe where you
 can custom build your own Bot Army! This is our app:
