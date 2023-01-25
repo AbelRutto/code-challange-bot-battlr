@@ -54,7 +54,8 @@ function BotsPage() {
 
   //Handler for Bot Actions
   function handleBotActionClick(bot, action){
-    switch(action){
+     // eslint-disable-next-line
+    switch (action){
       case "release-bot":
         deleteBot(bot)   
         break;
