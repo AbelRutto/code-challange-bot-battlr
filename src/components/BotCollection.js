@@ -8,7 +8,7 @@ function BotCollection( { filteredBots }) {
     <div className="ui four column grid">
       <div className="row">
         {/*...and here..*/}
-        Collection of all bots
+        COLLECTION OF ALL BOTS
         {filteredBots}
       </div>
     </div>
